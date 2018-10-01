@@ -1,2 +1,2 @@
-# simple-shell
-Linux Shell written in C
+# Bash Shell
+Bash Shell written in C for use in Unix systems
